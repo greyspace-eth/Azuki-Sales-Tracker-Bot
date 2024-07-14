@@ -19,7 +19,7 @@ Azuki Sales Tracker is a bot that tracks Azuki NFT sales on various marketplaces
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/azuki-sales-tracker.git
+    git clone https://github.com/greyspace-eth/azuki-sales-tracker.git
     cd azuki-sales-tracker
     ```
 
