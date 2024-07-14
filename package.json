@@ -1,0 +1,30 @@
+{
+    "name": "azuki-sales-tracker",
+    "version": "1.0.0",
+    "description": "A bot to track Azuki NFT sales on Blur, X2Y2, OpenSea, and LooksRare.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "axios": "^0.21.1",
+      "dotenv": "^10.0.0",
+      "web3": "^1.3.6"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/yourusername/azuki-sales-tracker.git"
+    },
+    "keywords": [
+      "Azuki",
+      "NFT",
+      "Tracker",
+      "Blur",
+      "X2Y2",
+      "OpenSea",
+      "LooksRare"
+    ],
+    "author": "Grayson Lim",
+    "license": "MIT"
+  }
+  
